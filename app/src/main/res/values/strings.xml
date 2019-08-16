@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonAppGrapImgServiceWebV2</string>
+    <string name="mon_app">Mon app!</string>
+    <string name="todo">TODO</string>
+</resources>
